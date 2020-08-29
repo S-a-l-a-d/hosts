@@ -202,9 +202,14 @@ watson.telemetry.microsoft.com
 web.vortex.data.microsoft.com
 
 # Manually added
+pubads.g.doubleclick.net
 graph.accountkit.com
 googletagmanager.com
 www.googletagmanager.com
 beacons.gvt2.com
 beacons.gcp.gvt2.com
-pubads.g.doubleclick.net
+continuum.dds.microsoft.com
+activity.windows.com
+enterprise.activity.windows.com
+edge.activity.windows.com
+enterprise.edge.activity.windows.com
