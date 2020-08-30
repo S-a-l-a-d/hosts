@@ -213,6 +213,10 @@ activity.windows.com
 enterprise.activity.windows.com
 edge.activity.windows.com
 enterprise.edge.activity.windows.com
+vortex.data.microsoft.com
+self.events.data.microsoft.com
+cs.dds.microsoft.com
+ztd.dds.microsoft.com
 ravenjs.com
 cdn.ravenjs.com
 browser.sentry-cdn.com
