@@ -213,3 +213,7 @@ activity.windows.com
 enterprise.activity.windows.com
 edge.activity.windows.com
 enterprise.edge.activity.windows.com
+ravenjs.com
+cdn.ravenjs.com
+browser.sentry-cdn.com
+sentry.io
