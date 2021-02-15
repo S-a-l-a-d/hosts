@@ -3,9 +3,9 @@
 ! Homepage: https://github.com/S-a-l-a-d/hosts
 ! License: https://github.com/S-a-l-a-d/hosts/blob/master/LICENSE
 
-@@||googletagmanager.com^$third-party,important
-@@||google-analytics.com^$third-party,important
-@@||app-measurement.com^$third-party,important
+@@||googletagmanager.com^
+@@||google-analytics.com^
+@@||app-measurement.com^
 
 ! Local
 @@||router.asus.com^$document
