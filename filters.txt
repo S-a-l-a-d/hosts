@@ -1,0 +1,3 @@
+@@||googletagmanager.com^$third-party
+@@||google-analytics.com^$third-party
+@@||app-measurement.com^$third-party
