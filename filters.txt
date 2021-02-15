@@ -1,3 +1,10 @@
+! Title: Salad's AdGuard filters
+! Description: For personal use.
+
 @@||googletagmanager.com^$third-party
 @@||google-analytics.com^$third-party
 @@||app-measurement.com^$third-party
+
+! Local
+@@||router.asus.com^$document
+@@||192.168.*.*^$document
